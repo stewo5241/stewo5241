@@ -2,7 +2,7 @@
 - 👀 I’m interested in IaC
 - 🌱 I’m currently learning terraform
 - 💞️ I’m looking to collaborate on infra pipeline
-- 📫 How to reach me stewong@deloitte.com.hk
+- 📫 How to reach me email in github
 
 <!---
 stewo5241/stewo5241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
